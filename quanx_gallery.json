@@ -1,6 +1,6 @@
 {
     "name": "领京豆合集",
-    "description": "",
+    "description": "薅羊毛",
     "task": [
         "2 9 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_bean_change.js, tag=京豆变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "10 7 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, enabled=true",
@@ -17,6 +17,7 @@
         "20 13 * * 6 https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "10 * * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=true",
         "10 0 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true",
+        "10 0 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jin_tie.js, tag=领金贴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "15 0-23/2 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_joy.js, tag=京东宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
         "15 0-23/1 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_joy_feedPets.js, tag=京东宠汪汪喂食, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
         "0 0-16/8 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
@@ -35,6 +36,7 @@
         "20 8 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_sgmh.js, tag=闪购盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "10 0 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_shop.js, tag=进店领豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, enabled=true",
         "16 22 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_small_home.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png, enabled=true",
+        "10-20/5 12 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_live.js, tag=京东直播, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "8 0-23/3 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_speed.js, tag=京东天天加速, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdjs.png, enabled=true",
         "0 0 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
         "0 7 * * * https://cdn.jsdelivr.net/gh/wangyuyan666/jd@master/jd_speed_sign.js, tag=京东极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
